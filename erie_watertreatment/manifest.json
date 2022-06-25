@@ -6,6 +6,6 @@
   "documentation": "https://github.com/tgebarowski/erie-watertreatment-homeassistant",
   "dependencies": [],
   "codeowners": ["@tgebarowski"],
-  "requirements": ["erie-connect==0.4.1"]
+  "requirements": ["erie-connect==0.4.1"],
   "iot_class": "cloud_polling"
 }
