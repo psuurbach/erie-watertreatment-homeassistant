@@ -7,4 +7,5 @@
   "dependencies": [],
   "codeowners": ["@tgebarowski"],
   "requirements": ["erie-connect==0.4.1"]
+  "iot_class": "cloud_polling"
 }
